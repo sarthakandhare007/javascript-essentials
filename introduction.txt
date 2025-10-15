@@ -1,0 +1,20 @@
+
+
+
+Ways to run JS:
+=============================
+1.Adding to html
+2.Directy Run JS using NODE
+
+
+
+Features:
+===============================
+ES-6 and ES-7 features:
+1. Interpreated language
+2.Every browser has own Js Engine
+    -Interpreater
+3.OOP
+4.Dynamically Typed
+5.ES-6 features
+6.Arrow Funcions
