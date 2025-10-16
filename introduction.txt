@@ -18,3 +18,24 @@ ES-6 and ES-7 features:
 4.Dynamically Typed
 5.ES-6 features
 6.Arrow Funcions
+
+Rules while declearing veriable:
+================================================
+space is not alloud 
+predfned functions are not alloud
+keywords mot alloud
+
+good practices:
+===================================================
+alpha digit $ _ only these alloud but cant start with digiit 
+variable name shoud be meaningfull
+
+Cases:
+====================================================
+var dateOfBirth => Camel Cases
+var date_of_birth =>snake Cases
+
+comments:
+===========================================================
+single line: //
+multi-line= /*  */
